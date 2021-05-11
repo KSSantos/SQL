@@ -1,5 +1,6 @@
 # SQL
 SQL Studies and Projects
+
 This repository contains some of the projects and exercises I've been doing in my study time, as well as some personal challenges created using SQL Server
 
 # 1. Sales Analysis
